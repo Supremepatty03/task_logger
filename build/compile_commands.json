@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/Log_manager",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/logger_static.dir/Log_manager.cpp.o -c /mnt/c/Users/User/Documents/task/Log_manager/Log_manager.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/Log_manager/Log_manager.cpp",
+  "output": "Log_manager/CMakeFiles/logger_static.dir/Log_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/Log_manager",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/logger_static.dir/Log_writer.cpp.o -c /mnt/c/Users/User/Documents/task/Log_manager/Log_writer.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/Log_manager/Log_writer.cpp",
+  "output": "Log_manager/CMakeFiles/logger_static.dir/Log_writer.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/Log_manager",
+  "command": "/usr/bin/c++ -Dlogger_shared_EXPORTS -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -fPIC -o CMakeFiles/logger_shared.dir/Log_manager.cpp.o -c /mnt/c/Users/User/Documents/task/Log_manager/Log_manager.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/Log_manager/Log_manager.cpp",
+  "output": "Log_manager/CMakeFiles/logger_shared.dir/Log_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/Log_manager",
+  "command": "/usr/bin/c++ -Dlogger_shared_EXPORTS -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -fPIC -o CMakeFiles/logger_shared.dir/Log_writer.cpp.o -c /mnt/c/Users/User/Documents/task/Log_manager/Log_writer.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/Log_manager/Log_writer.cpp",
+  "output": "Log_manager/CMakeFiles/logger_shared.dir/Log_writer.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/demo_app.dir/main.cpp.o -c /mnt/c/Users/User/Documents/task/app/main.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/app/main.cpp",
+  "output": "app/CMakeFiles/demo_app.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/thread_app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/Log_manager -I/mnt/c/Users/User/Documents/task/thread_app -g -std=gnu++17 -o CMakeFiles/thread_demo_app.dir/main.cpp.o -c /mnt/c/Users/User/Documents/task/thread_app/main.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/thread_app/main.cpp",
+  "output": "thread_app/CMakeFiles/thread_demo_app.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/thread_app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/Log_manager -I/mnt/c/Users/User/Documents/task/thread_app -g -std=gnu++17 -o CMakeFiles/thread_demo_app.dir/File_manager.cpp.o -c /mnt/c/Users/User/Documents/task/thread_app/File_manager.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/thread_app/File_manager.cpp",
+  "output": "thread_app/CMakeFiles/thread_demo_app.dir/File_manager.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/stats_app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/stats_app/Log_manager -I/mnt/c/Users/User/Documents/task/stats_app/stats_app -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/stats_demo_app.dir/main.cpp.o -c /mnt/c/Users/User/Documents/task/stats_app/main.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/stats_app/main.cpp",
+  "output": "stats_app/CMakeFiles/stats_demo_app.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/stats_app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/stats_app/Log_manager -I/mnt/c/Users/User/Documents/task/stats_app/stats_app -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/stats_demo_app.dir/Socket_receiver.cpp.o -c /mnt/c/Users/User/Documents/task/stats_app/Socket_receiver.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/stats_app/Socket_receiver.cpp",
+  "output": "stats_app/CMakeFiles/stats_demo_app.dir/Socket_receiver.cpp.o"
+},
+{
+  "directory": "/mnt/c/Users/User/Documents/task/build/stats_app",
+  "command": "/usr/bin/c++  -I/mnt/c/Users/User/Documents/task/stats_app/Log_manager -I/mnt/c/Users/User/Documents/task/stats_app/stats_app -I/mnt/c/Users/User/Documents/task/Log_manager -g -std=gnu++17 -o CMakeFiles/stats_demo_app.dir/Stats_collector.cpp.o -c /mnt/c/Users/User/Documents/task/stats_app/Stats_collector.cpp",
+  "file": "/mnt/c/Users/User/Documents/task/stats_app/Stats_collector.cpp",
+  "output": "stats_app/CMakeFiles/stats_demo_app.dir/Stats_collector.cpp.o"
+}
+]

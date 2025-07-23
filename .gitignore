@@ -1,0 +1,29 @@
+# CMake
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio Code
+.vscode/
+
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# IDE / OS
+*.user
+*.suo
+*.vcxproj*
+*.idea/
+*.DS_Store
+
+# Logs / temp
+*.log
+*.tmp

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/thread_demo_app.dir/main.cpp.o CMakeFiles/thread_demo_app.dir/File_manager.cpp.o -o thread_demo_app  ../Log_manager/liblogger.a 

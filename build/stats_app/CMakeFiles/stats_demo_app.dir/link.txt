@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/stats_demo_app.dir/main.cpp.o CMakeFiles/stats_demo_app.dir/Socket_receiver.cpp.o CMakeFiles/stats_demo_app.dir/Stats_collector.cpp.o -o stats_demo_app  ../Log_manager/liblogger.a 
