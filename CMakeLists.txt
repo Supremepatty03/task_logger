@@ -7,3 +7,5 @@ add_subdirectory(Log_manager)
 add_subdirectory(app)
 add_subdirectory(thread_app)
 add_subdirectory(stats_app)
+add_subdirectory(tests)
+
